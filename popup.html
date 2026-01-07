@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="header">
+      <h3>Guitar<br>Buddy</h3>
+      
+      <img id="mascot-img" src="capy_happy.png" alt="Capybara Mascot">
+    </div>
+
+    <hr>
+
+    <div class="control-group">
+      <div class="row">
+        <button id="btn-a" class="loop-btn">Set A</button>
+        <button id="btn-b" class="loop-btn">Set B</button>
+      </div>
+      <button id="btn-clear" class="clear-btn">Clear Loop</button>
+      
+      <div id="status-msg" class="status-box">Ready to Jam!</div>
+    </div>
+
+    <hr>
+
+    <div class="control-group">
+      <label for="tuning-select">Tuning:</label>
+      <select id="tuning-select">
+        <option value="standard">E Standard</option>
+        <option value="dropD">Drop D</option>
+        <option value="ebStd">Eb Standard</option>
+        <option value="dStd">D Standard</option>
+        <option value="dropC">Drop C</option>
+        <option value="dropB">Drop B</option>
+        <option value="dropA">Drop A</option>
+      </select>
+
+      <div class="tuner-row" id="tuner-buttons">
+        <button class="note-btn" data-index="0">E</button>
+        <button class="note-btn" data-index="1">A</button>
+        <button class="note-btn" data-index="2">D</button>
+        <button class="note-btn" data-index="3">G</button>
+        <button class="note-btn" data-index="4">B</button>
+        <button class="note-btn" data-index="5">e</button>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
