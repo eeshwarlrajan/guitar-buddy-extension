@@ -1,6 +1,6 @@
 # 🎸 Guitar Buddy Chrome Extension
 
-**Guitar Buddy** is a browser extension designed to help musicians practice more effectively on YouTube. It features a custom video looper for practicing difficult sections and a built-in chromatic tuner—all hosted by a reactive Capybara mascot.
+**Guitar Buddy** is a browser extension designed to help musicians practice more effectively on YouTube. It features a custom video looper for practicing difficult sections and a built-in chromatic tuner, all hosted by a reactive mascot - BOB.
 
 <img src="icon128.png" width="100" alt="Guitar Buddy Logo">
 
