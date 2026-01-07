@@ -10,7 +10,7 @@
 ## ✨ Features
 * **YouTube Looper:** Set "Start" (A) and "End" (B) points to automatically loop specific sections of a video.
 * **Chromatic Tuner:** Visual and audio reference tuner for standard and drop tunings (Drop D, Drop C, etc.).
-* **Reactive UI:** The Capybara mascot reacts to user actions (tuning, looping, clearing).
+* **Reactive UI:** The little mascot BOB reacts to user actions (tuning, looping, clearing).
 * **Retro Design:** Custom CSS styling with a CRT monitor status display.
 
 ## 🛠️ Tech Stack
