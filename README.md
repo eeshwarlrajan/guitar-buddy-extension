@@ -12,7 +12,7 @@
 
 \## 🔗 Download
 
-\[\*\*Available now on the Chrome Web Store\*\*](INSERT\_YOUR\_STORE\_LINK\_HERE)
+\[\*\*Available now on the Chrome Web Store\*\*](https://chromewebstore.google.com/detail/okicbbfckeaeibfbcdklgbngpnibelml?utm\_source=item-share-cb)
 
 
 

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Guitar Buddy",
-  "version": "1.0.1",
+  "name": "Guitar Buddy: YouTube Looper & Tuner",
+  "version": "1.0.2",
   "description": "Your friendly guitar looper and tuner.",
   "permissions": ["activeTab"],
   "action": {
